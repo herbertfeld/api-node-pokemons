@@ -6,4 +6,4 @@
 - Acesso inicial os favoritos já inicialm com o Pikachu capturado (Não utilizada no preojeto)
 
 # Comando node index.js
-# http://localhost:3001/api/pokelista
+# http://localhost:3001/api/
